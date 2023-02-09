@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hello master");
         System.out.println("hot-fix git");
         System.out.println("hello pull and push");
+        System.out.println("快捷键尝试");
     }
 }
