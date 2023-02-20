@@ -1,4 +1,4 @@
-package com.huawei;
+package com.huawei.git;
 
 /**
  * @DESCRIPTION:
