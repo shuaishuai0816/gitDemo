@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("hot-fix git");
         System.out.println("revert commit");
+        System.out.println("revert commit again");
     }
 }
