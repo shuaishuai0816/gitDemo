@@ -11,7 +11,10 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("hello git3");
         System.out.println("hello git4");
+        System.out.println("hello master");
         System.out.println("hot-fix git");
+        System.out.println("hello pull and push");
+        System.out.println("快捷键尝试");
         System.out.println("revert commit");
         System.out.println("revert commit again");
     }
